@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Investment Banking Analytics Project"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6f22ab1b-6449-4e02-98a9-0e013de14563"
+  }
+}
