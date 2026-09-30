@@ -1,4 +1,4 @@
-                    ##### Investment Banking Operations Analytics & Financial Assurance Suite #############
+            ##### Investment Banking Operations Analytics & Financial Assurance Suite ########
                              
 An end-to-end analytical project designed for Investment Banking Operations, Settlement Desks, and Revenue Assurance teams. The suite combines Python data engineering, predictive modeling (OLS/Logistic Risk Scoring), SQLite persistence, and executive Power BI reporting across two core dashboards:
 
